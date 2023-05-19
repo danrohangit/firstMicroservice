@@ -12,8 +12,8 @@
 ## Screenshots
 - Docker
 - 
-![ScreenShot](https://raw.githubusercontent.com/danrohangit/Java_Simple_Cancel_Booking_App/main/images/ShowBookings1.PNG)
+![ScreenShot](https://raw.githubusercontent.com/danrohangit/firstMicroservice/main/images/docker1.PNG)
 
 - Azure
 - 
-![ScreenShot](https://raw.githubusercontent.com/danrohangit/Java_Simple_Cancel_Booking_App/main/images/ShowBookings1.PNG)
+![ScreenShot](https://raw.githubusercontent.com/danrohangit/firstMicroservice/main/images/azure1.PNG)
